@@ -1,5 +1,5 @@
 {
-  "name": "@slego-cli/utils",
+  "name": "slego-cli/utils",
   "version": "1.0.4",
   "description": "some cli utils",
   "author": "samzherf <samzherf@gmail.com>",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "ed8c09dd3dce77b63f8dc876b01f7ec22800cc83"
+  "gitHead": "b625b81fc70e81308aecdfb01a2a55e52abe281a"
 }
