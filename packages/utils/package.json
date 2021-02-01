@@ -1,5 +1,5 @@
 {
-  "name": "slego-cli/utils",
+  "name": "@slego-cli/utils",
   "version": "1.0.4",
   "description": "some cli utils",
   "author": "samzherf <samzherf@gmail.com>",

@@ -1,5 +1,5 @@
 {
-  "name": "slego-cli/core",
+  "name": "@slego-cli/core",
   "version": "1.0.4",
   "description": "weblego cli core",
   "author": "samzherf <samzherf@gmail.com>",
