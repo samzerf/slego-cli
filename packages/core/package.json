@@ -1,6 +1,6 @@
 {
   "name": "@slego-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "weblego cli core",
   "author": "samzherf <samzherf@gmail.com>",
   "homepage": "",
@@ -18,7 +18,5 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "dependencies": {
   }
 }
