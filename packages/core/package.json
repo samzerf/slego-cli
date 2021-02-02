@@ -1,6 +1,6 @@
 {
   "name": "@slego-cli/core",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "weblego cli core",
   "author": "samzherf <samzherf@gmail.com>",
   "homepage": "",
@@ -14,7 +14,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
